@@ -2,7 +2,7 @@
 <img class="img-fluid" src="https://media.giphy.com/media/DOrchfDaO8OzqQBoCp/giphy.gif" alt="" />
                         </div>
           
-By clicking **"Make Pacman"** this will creat pacmen as many as you want.
+By clicking **"Make Pacman"** will create pacmen as many as you want.
 
 By clicking **"start game"** they will start jump and bouncing all around the screen.
 
